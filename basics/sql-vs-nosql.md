@@ -2,7 +2,10 @@
 Store data in rows and columns. Each row is a data entity, each column stores seperate data points of that entity.
 
 ### NoSQL
-
+- Key-Value Store: Redis, Voldemort, Dynamo
+- Document Database: data is stored in documents, and documents are grouped in collections. Each document can have an entirely different structure. CouchDB and MongoDB.
+- Wide-Column Database: column famililies as container of rows. Best suited for analyzing large dataset - Cassandra and HBase.
+- Graph Database: store data whose relations are best reprensented in a graph. Data is saved in graph with nodes(entities), properties(information about the entities), and lines(connections between the entities). 
 
 ### High level diffences
 - Storeage 
