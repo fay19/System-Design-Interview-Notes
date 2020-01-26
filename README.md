@@ -39,4 +39,4 @@
 
 
 ## Distributed System Design Basics
-- [SQL and NoSQL] (basics/sql-vs-nosql.md)
+- [SQL and NoSQL](basics/sql-vs-nosql.md)
