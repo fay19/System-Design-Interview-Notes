@@ -36,4 +36,5 @@
 - [Key Characteristics](basics/key-characteristics.md)
 - [Load Balancing](basics/load-balancing.md)
 - [Caching](basics/caching.md)
+- [Data Partiioning](basic/data-partitioning.md)
 - [SQL and NoSQL](basics/sql-vs-nosql.md)
