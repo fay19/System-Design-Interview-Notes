@@ -8,6 +8,7 @@
 - prevent SPOF, improve overall availibity and responsiveness
 - ![Multi-layer of load balancing](../images/multi-layer-lb.png)
 
+
 ### Benefits
 - faster, uninterrupted service
 - less downtime, higher throughput
