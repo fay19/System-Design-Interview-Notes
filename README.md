@@ -1,6 +1,6 @@
 # System-Design-Interview-Notes
 
-### Steps:
+## Steps:
 ### Scope the problem
 
 1. what are the functional requirements and what are the non-funtional requirements
