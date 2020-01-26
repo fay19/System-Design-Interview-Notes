@@ -34,10 +34,10 @@ Store data in rows and columns. Each row is a data entity, each column stores se
   - Most NoSQL sacrifice ACID complaince for performance and scalability
   
 ### Which one to use
-- Choose SQL
+- SQL
   - ACID is a must-have
   - data is structured and unchanging
-- choose NoSQL
+- NoSQL
   - Storing large volumes of data that often have little to no structure
   - Making the most of clond computing and storage
   - Rapid development
