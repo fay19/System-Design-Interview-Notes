@@ -33,6 +33,6 @@
 - Object Storage: object storage usually store the data as objects. Each object include the data itself and a variable amount of metatdata. Facebook phones, Spotify songs, Dropbox files are all object storage. Amazon S3, Google cloud storage alson leveraged on object storage architecture.
 
 ## Distributed System Design Basics
-- [key characteristics](basics/key-characteristics.md)
+- [Key Characteristics](basics/key-characteristics.md)
 - [Load Balancing](basics/load-balancing.md)
 - [SQL and NoSQL](basics/sql-vs-nosql.md)
