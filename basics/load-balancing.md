@@ -6,7 +6,7 @@
 - Stop sending traffice to not responding or error server
 - in between of clients and servers
 - prevent SPOF, improve overall availibity and responsiveness
-- [Multi-layer of load balancing](../images/multi-layer-lb.png)
+- ![Multi-layer of load balancing](../images/multi-layer-lb.png)
 
 ### Benefits
 - faster, uninterrupted service
