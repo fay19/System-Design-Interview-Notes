@@ -1,4 +1,4 @@
-## Data Partitioning
+# Data Partitioning
 
 ## What is data partitioning
 - Split up DB/table across multipler machines
