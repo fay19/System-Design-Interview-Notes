@@ -39,7 +39,7 @@
 - [Data Partiioning](basics/data-partitioning.md)
 - [Indexes](basics/indexes.md)
 - [Proxies](basics/indexes.md)
-- [Redundancy and Replication](basics/redundancy.md)
+- [Redundancy and Replication](basics/redundancy-and-replication.md)
 - [SQL and NoSQL](basics/sql-vs-nosql.md)
 - [CAP Theorem](basics/CAP.md)
 - [Consistent Hashing](basics/consistent-hashing.md)
