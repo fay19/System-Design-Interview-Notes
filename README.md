@@ -44,3 +44,7 @@
 - [CAP Theorem](basics/CAP.md)
 - [Consistent Hashing](basics/consistent-hashing.md)
 - [Long-Polling vs WebSockets vs Server-Sent Events](basics/client-server-communication.md)
+
+## Cases
+- [Facebook Messenger](cases/facebook-messenger.md)
+
